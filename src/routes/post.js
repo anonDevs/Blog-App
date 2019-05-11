@@ -28,7 +28,4 @@ router.get('/api/post', async (req, res) => {
     }
 })
 
-//Get One Post
-router.get('/api/post/')
-
 module.exports = router 
